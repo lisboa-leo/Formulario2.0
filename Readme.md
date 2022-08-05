@@ -1,0 +1,1 @@
+Esse projeto foi feito por mim, estava no começo da programação e decidi fazer esse site.
